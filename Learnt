@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+    
+</body>
+</html>
+
+<hr> - Horizontal rule (given in sizes and noshade)
+<br> - Break(space or next line)
+<title></title> - Title of page
+<head></head> - Heading of page
+<body></body> - Body of page
+<p></p> - Paragraph
+<html></html> - All html codes must be writen in this loop 
+<meta> - Given by (charset="utf-8") to describe the kind of letter, symbol r digits included in the code
+<li></li> - List words using a bullet point 
+<i></i> / <em></em> - To italize write-up
+<b></b> / <strong></strong> - To bolden 
+<h1></h1> - <h6></h6> - Used to give sizes to letters (Sizes reduces with increasing number i.e h1 is the largest)
+<ul></ul> - ( All <li></li> objects must be within this loop ) (Used for un-ordered list)
+<ol></ol> - Used for ordered list
+<img src="" alt=""> - To insert image
+<a href=""></a> - To encode an url link (i.e on clicking, it takes you to the encoded link )
+<table></table> - To tabulate or organize data in line
+<tr></tr> - Table row for each forward data
+<td></td> - Table cell for each "tr" assigned data
+(Search for HTML MDN web docs on Google for more understanding...)

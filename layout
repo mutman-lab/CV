@@ -1,0 +1,44 @@
+<!Doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My Simple Bio.</title>
+    </head>
+    <body>
+        <!-- <img src="images/spider.jpg" alt="favourite image"> -->
+    <h1>Eyitayo Mutman</h1>
+    <p><em>An upcoming <strong>Solidity and Blockchain developer</strong>.</em></p>
+    <p>I am Mutmaeen by name, a BSc. Physics student in the University of Ilorin, a web3, Crypto and Computer programming enthusiast.</p>
+    <hr>
+    </p>
+    <h3>Education</h3>
+    <ul><li>An Undergraduate in the University of Ilorin </li><br>
+        <li>Majoring in Electronics in Physics</li> <br> 
+         <li>I am familiar with Solidity, C, Python, HTML, React and Javascript.</li>
+        </ul> <hr>
+     
+        <h3>Skills and Talents</h3> 
+        
+             <table cellspacing="10">
+                <tr>
+                    <td>DIY Tech</td>
+                    <td>Problem solving</td>
+                </tr>
+                <tr>
+                    <td>Soldering</td>
+                    <td>Team building</td>
+                </tr>
+                <tr>
+                    <td>Simple circuit development</td>
+                    <td>Wiring </td>
+                </tr>
+             </table>
+             <hr>
+    
+    <!-- <h3>Contact</h3> -->
+ 
+   <strong> <a href="contact.html">Contacts</a></strong>
+ 
+    
+</body>
+</html>
